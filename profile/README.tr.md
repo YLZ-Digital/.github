@@ -54,8 +54,12 @@ Güçlü mühendislik disiplini ile ileri görüşlü mimariyi bir araya getirer
 
 <table width="100%">
   <tr>
-    <td width="100%" valign="top">
-      <sub><strong>01 / MÜHENDİSLİK</strong></sub><br /><br />
+    <td width="96" align="center" valign="top">
+      <strong>01</strong>
+      <br />
+      <sub>MÜHENDİSLİK</sub>
+    </td>
+    <td valign="top">
       <strong>🧱 Modüler Sistemler</strong><br />
       <sub>Uzun ömürlü ürünler için temiz ve sürdürülebilir mimari</sub><br /><br />
       Gerçek ihtiyaçlara göre büyüyebilen, bakımı kolay ve geliştirilmeye açık yazılım temelleri kuruyoruz.
@@ -65,8 +69,12 @@ Güçlü mühendislik disiplini ile ileri görüşlü mimariyi bir araya getirer
 
 <table width="100%">
   <tr>
-    <td width="100%" valign="top">
-      <sub><strong>02 / GÜVENLİK</strong></sub><br /><br />
+    <td width="96" align="center" valign="top">
+      <strong>02</strong>
+      <br />
+      <sub>GÜVENLİK</sub>
+    </td>
+    <td valign="top">
       <strong>🛡️ Güvenlik Mimarisi</strong><br />
       <sub>Güvenliğin sonradan değil, en baştan tasarıma dahil edilmesi</sub><br /><br />
       Güvenliği; sistem tasarımından backend mantığına, yayın sürecinden operasyonel görünürlüğe kadar işin temel parçası olarak ele alıyoruz.
@@ -76,8 +84,12 @@ Güçlü mühendislik disiplini ile ileri görüşlü mimariyi bir araya getirer
 
 <table width="100%">
   <tr>
-    <td width="100%" valign="top">
-      <sub><strong>03 / YAPAY ZEKÂ</strong></sub><br /><br />
+    <td width="96" align="center" valign="top">
+      <strong>03</strong>
+      <br />
+      <sub>YAPAY ZEKÂ</sub>
+    </td>
+    <td valign="top">
       <strong>🤖 Yapay Zekâ Destekli Savunma</strong><br />
       <sub>İzleme, analiz ve hızlı aksiyon için proaktif yaklaşım</sub><br /><br />
       İzleme, analiz, tespit ve savunma kararlarını güçlendiren proaktif yapay zekâ iş akışları üzerinde çalışıyoruz.

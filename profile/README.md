@@ -54,8 +54,12 @@ We design and ship secure, modular, and production-ready digital systems that co
 
 <table width="100%">
   <tr>
-    <td width="100%" valign="top">
-      <sub><strong>01 / ENGINEERING</strong></sub><br /><br />
+    <td width="96" align="center" valign="top">
+      <strong>01</strong>
+      <br />
+      <sub>ENGINEERING</sub>
+    </td>
+    <td valign="top">
       <strong>🧱 Modular Systems</strong><br />
       <sub>Clean architecture for long-term product growth</sub><br /><br />
       We build structured software foundations that stay maintainable, extensible, and ready to evolve with real product needs.
@@ -65,8 +69,12 @@ We design and ship secure, modular, and production-ready digital systems that co
 
 <table width="100%">
   <tr>
-    <td width="100%" valign="top">
-      <sub><strong>02 / SECURITY</strong></sub><br /><br />
+    <td width="96" align="center" valign="top">
+      <strong>02</strong>
+      <br />
+      <sub>SECURITY</sub>
+    </td>
+    <td valign="top">
       <strong>🛡️ Security Architecture</strong><br />
       <sub>Protection designed into the system itself</sub><br /><br />
       Security is treated as a foundational layer, from system design and backend logic to deployment and operational visibility.
@@ -76,8 +84,12 @@ We design and ship secure, modular, and production-ready digital systems that co
 
 <table width="100%">
   <tr>
-    <td width="100%" valign="top">
-      <sub><strong>03 / INTELLIGENCE</strong></sub><br /><br />
+    <td width="96" align="center" valign="top">
+      <strong>03</strong>
+      <br />
+      <sub>INTELLIGENCE</sub>
+    </td>
+    <td valign="top">
       <strong>🤖 AI-Driven Defense</strong><br />
       <sub>Proactive monitoring, analysis, and response support</sub><br /><br />
       We explore proactive AI workflows that improve monitoring, analysis, detection, and defensive decision support.

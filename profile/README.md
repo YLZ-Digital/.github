@@ -1,63 +1,123 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/ylz-cyber-premium.svg" alt="YLZ Digital Cyber Premium Banner" width="100%" />
+</p>
 
-# YLZ Digital
+<p align="center">
+  <strong>YLZ Digital</strong><br />
+  Full Stack Web Development • Cyber Security • Modular Product Engineering
+</p>
 
-### Full Stack Web Development & Cyber Security
+<p align="center">
+  Building modular web systems, mobile utilities, and proactive AI-based security architectures.
+</p>
 
-Building modular web systems, mobile utilities, and proactive AI-based security architectures.
-
-[Official Website](https://ylz.digital/en) • [Founder](https://serhanyildiz.dev)
-
-</div>
+<p align="center">
+  <a href="https://ylz.digital/en">
+    <img src="https://img.shields.io/badge/Official%20Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" alt="Official Website" />
+  </a>
+  <a href="https://github.com/srhnyldz">
+    <img src="https://img.shields.io/badge/Founder%20GitHub-0F172A?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Founder GitHub" />
+  </a>
+  <a href="https://serhanyildiz.dev">
+    <img src="https://img.shields.io/badge/Founder%20Website-0F172A?style=for-the-badge&logo=vercel&logoColor=67E8F9" alt="Founder Website" />
+  </a>
+</p>
 
 ---
 
-## 👋 Introduction
+## Overview
 
-Welcome to the official GitHub organization of **YLZ Digital**.
+**YLZ Digital** is a cutting-edge technology firm focused on **Full Stack Web Development** and **Cyber Security**.
 
-We are a cutting-edge technology firm focused on **Full Stack Web Development** and **Cyber Security**, delivering modular digital products that combine modern engineering, scalable architecture, and security-first thinking.
+We design and ship secure, modular, and production-ready digital systems that combine strong engineering discipline with forward-looking architecture. Our vision is to build scalable web platforms, practical mobile utilities, and proactive AI-based security solutions that help teams move faster without compromising resilience.
 
-Our vision is to build **modular web systems**, **mobile utilities**, and **proactive AI-based security architectures** that help teams operate with greater speed, resilience, and confidence.
+## Core Pillars
 
-## ⚙️ Tech Stack
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>🧱 Modular Systems</strong><br /><br />
+      We build structured software that is maintainable, extensible, and ready to evolve with real product needs.
+    </td>
+    <td width="33%" valign="top">
+      <strong>🛡️ Security Architecture</strong><br /><br />
+      Security is treated as a foundational layer, from system design and backend logic to deployment and operational visibility.
+    </td>
+    <td width="33%" valign="top">
+      <strong>🤖 AI-Driven Defense</strong><br /><br />
+      We explore proactive AI workflows that improve monitoring, analysis, detection, and defensive decision support.
+    </td>
+  </tr>
+</table>
 
-![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter%204](https://img.shields.io/badge/CodeIgniter%204-111827?style=for-the-badge&logo=codeigniter&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-111827?style=for-the-badge&logo=mariadb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Astro.js](https://img.shields.io/badge/Astro.js-111827?style=for-the-badge&logo=astro&logoColor=white)
+## Priority Initiatives
 
-## 🧩 Core Initiatives & Projects
+<table>
+  <tr>
+    <td width="10%" align="center" valign="top">
+      <strong>01</strong>
+    </td>
+    <td width="90%" valign="top">
+      <strong>YLZ-AI</strong><br />
+      Our flagship AI-driven proactive cybersecurity architecture for server monitoring, vulnerability analysis, and defense workflows. YLZ-AI is designed to strengthen infrastructure awareness and accelerate response through Python-based analysis pipelines and YARA-powered detection capabilities.<br /><br />
+      <code>Python</code> <code>YARA</code> <code>Server Monitoring</code> <code>Vulnerability Analysis</code> <code>Defense Automation</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" valign="top">
+      <strong>02</strong>
+    </td>
+    <td width="90%" valign="top">
+      <strong>YLZ-CMS</strong><br />
+      A comprehensive modular content management system built with CodeIgniter 4, MariaDB 11.7, and FrankenPHP. YLZ-CMS is engineered for secure multi-client operations, clean content workflows, and a scalable architecture that supports long-term product growth.<br /><br />
+      <code>CodeIgniter 4</code> <code>MariaDB 11.7</code> <code>FrankenPHP</code> <code>Modular CMS</code> <code>Multi-Client Architecture</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" valign="top">
+      <strong>03</strong>
+    </td>
+    <td width="90%" valign="top">
+      <strong>YLZ-DevKit</strong><br />
+      A modern mobile application that delivers essential software utilities for developers. YLZ-DevKit is centered on practical tooling, streamlined interaction, and a mobile-first experience that supports day-to-day engineering workflows.<br /><br />
+      <code>Flutter</code> <code>Mobile Utilities</code> <code>Developer Experience</code> <code>Practical Tooling</code>
+    </td>
+  </tr>
+</table>
 
-### 1. YLZ-AI
+## Tech Stack
 
-Our flagship **AI-driven proactive cybersecurity architecture** for **server monitoring**, **vulnerability analysis**, and **defense automation**. YLZ-AI is designed to strengthen infrastructure visibility and accelerate threat response through **Python-based analysis workflows** and **YARA-powered detection integration**.
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=67E8F9" alt="PHP" />
+  <img src="https://img.shields.io/badge/CodeIgniter%204-0F172A?style=for-the-badge&logo=codeigniter&logoColor=67E8F9" alt="CodeIgniter 4" />
+  <img src="https://img.shields.io/badge/MariaDB-0F172A?style=for-the-badge&logo=mariadb&logoColor=67E8F9" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=67E8F9" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge&logo=flutter&logoColor=67E8F9" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=67E8F9" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Astro.js-0F172A?style=for-the-badge&logo=astro&logoColor=67E8F9" alt="Astro.js" />
+</p>
 
-### 2. YLZ-CMS
+## Meet the Founder
 
-A comprehensive, modular content management system built with **CodeIgniter 4**, **MariaDB 11.7**, and **FrankenPHP**. YLZ-CMS is engineered for extensibility, maintainability, and secure **multi-client** operations, supporting structured content workflows inside a clean and scalable architecture.
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <strong>Serhan Yıldız</strong><br />
+      Founder & Lead Developer<br /><br />
+      Serhan Yıldız leads the technical direction of YLZ Digital with a strong focus on modern web systems, secure software architecture, and practical developer tooling.<br /><br />
+      <a href="https://github.com/srhnyldz">GitHub</a> •
+      <a href="https://serhanyildiz.dev">Web</a> •
+      <a href="https://www.instagram.com/serhanyildiz.dev">Instagram</a>
+    </td>
+  </tr>
+</table>
 
-### 3. YLZ-DevKit
+## Connect With Us
 
-A modern mobile application providing essential software utilities for developers. YLZ-DevKit is focused on practical, developer-first tooling in a streamlined mobile experience, helping teams stay productive beyond the desktop.
+If you are looking for modular digital products, security-focused engineering, and forward-looking technical execution, visit our official English website:
 
-## 👤 Meet the Founder
-
-### Serhan Yıldız
-
-**Founder & Lead Developer**
-
-Serhan Yıldız leads the technical direction of YLZ Digital with a strong focus on modern web systems, secure software architecture, and practical developer tooling.
-
-- GitHub: [srhnyldz](https://github.com/srhnyldz)
-- Web: [serhanyildiz.dev](https://serhanyildiz.dev)
-- Instagram: [@serhanyildiz.dev](https://www.instagram.com/serhanyildiz.dev)
-
-## 🌐 Connect With Us
-
-Explore our official English website to learn more about our work, vision, and digital solutions:
-
-- [ylz.digital/en](https://ylz.digital/en)
+<p align="center">
+  <a href="https://ylz.digital/en">
+    <img src="https://img.shields.io/badge/Visit%20YLZ%20Digital-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=0B1120&labelColor=67E8F9" alt="Visit YLZ Digital" />
+  </a>
+</p>

@@ -162,13 +162,13 @@ Some engagements are presented in a generalized format to respect confidentialit
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=67E8F9" alt="PHP" />
-  <img src="https://img.shields.io/badge/CodeIgniter%204-0F172A?style=for-the-badge&logo=codeigniter&logoColor=67E8F9" alt="CodeIgniter 4" />
-  <img src="https://img.shields.io/badge/MariaDB-0F172A?style=for-the-badge&logo=mariadb&logoColor=67E8F9" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=67E8F9" alt="Python" />
-  <img src="https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge&logo=flutter&logoColor=67E8F9" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=67E8F9" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Astro.js-0F172A?style=for-the-badge&logo=astro&logoColor=67E8F9" alt="Astro.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/CodeIgniter%204-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Astro.js-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro.js" />
 </p>
 
 ## Meet the Founder

@@ -239,40 +239,37 @@ Some engagements are presented in a generalized format to respect confidentialit
 
 ## Tech Stack
 
-<p align="center">
-  <sub>GROUPED BY DELIVERY LAYER, PRODUCT SURFACE, AND SECURITY CAPABILITY</sub>
+A concise view of the technologies behind our web platforms, mobile utilities, and AI-driven security workflows.
+
+**Web Platform**  
+<sub>Backend frameworks, frontend delivery, and modular product architecture.</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/CodeIgniter%204-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Astro.js-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Astro.js" />
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub><strong>WEB PLATFORM</strong></sub><br /><br />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/CodeIgniter%204-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Astro.js-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro.js" />
-    </td>
-    <td width="50%" valign="top">
-      <sub><strong>DATA, RUNTIME & MOBILE</strong></sub><br /><br />
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-      <img src="https://img.shields.io/badge/FrankenPHP-0F172A?style=for-the-badge&logoColor=67E8F9" alt="FrankenPHP" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter" />
-    </td>
-  </tr>
-</table>
+**Data, Runtime & Mobile**  
+<sub>Data persistence, application runtime, and cross-platform product delivery.</sub>
 
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <sub><strong>AI & CYBER SECURITY</strong></sub><br /><br />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-      <img src="https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=67E8F9" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/YARA-1F2937?style=for-the-badge&logoColor=67E8F9" alt="YARA" />
-      <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/FrankenPHP-0F172A?style=flat-square&logoColor=67E8F9" alt="FrankenPHP" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=54C5F8" alt="Flutter" />
+</p>
+
+**AI & Cyber Security**  
+<sub>LLM workflows, detection logic, monitoring posture, and operational defense.</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenAI-0F172A?style=flat-square&logo=openai&logoColor=67E8F9" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/YARA-1F2937?style=flat-square&logoColor=67E8F9" alt="YARA" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
+</p>
 
 ## Meet the Founder
 

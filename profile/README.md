@@ -48,19 +48,29 @@ We design and ship secure, modular, and production-ready digital systems that co
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="100%" valign="top">
       <sub><strong>01 / ENGINEERING</strong></sub><br /><br />
       <strong>🧱 Modular Systems</strong><br />
       <sub>Clean architecture for long-term product growth</sub><br /><br />
       We build structured software foundations that stay maintainable, extensible, and ready to evolve with real product needs.
     </td>
-    <td width="33%" valign="top">
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
       <sub><strong>02 / SECURITY</strong></sub><br /><br />
       <strong>🛡️ Security Architecture</strong><br />
       <sub>Protection designed into the system itself</sub><br /><br />
       Security is treated as a foundational layer, from system design and backend logic to deployment and operational visibility.
     </td>
-    <td width="33%" valign="top">
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
       <sub><strong>03 / INTELLIGENCE</strong></sub><br /><br />
       <strong>🤖 AI-Driven Defense</strong><br />
       <sub>Proactive monitoring, analysis, and response support</sub><br /><br />
@@ -75,14 +85,14 @@ We design and ship secure, modular, and production-ready digital systems that co
   <sub>FLAGSHIP PRODUCT DIRECTION AND DELIVERY PRIORITIES</sub>
 </p>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="12%" align="center" valign="top">
+    <td width="96" align="center" valign="top">
       <strong>01</strong>
       <br />
       <sub>FLAGSHIP</sub>
     </td>
-    <td width="88%" valign="top">
+    <td valign="top">
       <strong>YLZ-AI</strong><br />
       <sub>AI-driven proactive cybersecurity architecture</sub><br /><br />
       Our flagship AI-driven proactive cybersecurity architecture for server monitoring, vulnerability analysis, and defense workflows. YLZ-AI is designed to strengthen infrastructure awareness and accelerate response through Python-based analysis pipelines and YARA-powered detection capabilities.<br /><br />
@@ -91,14 +101,14 @@ We design and ship secure, modular, and production-ready digital systems that co
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="12%" align="center" valign="top">
+    <td width="96" align="center" valign="top">
       <strong>02</strong>
       <br />
       <sub>PLATFORM</sub>
     </td>
-    <td width="88%" valign="top">
+    <td valign="top">
       <strong>YLZ-CMS</strong><br />
       <sub>Modular content management and multi-client platform foundation</sub><br /><br />
       A comprehensive modular content management system built with CodeIgniter 4, MariaDB 11.7, and FrankenPHP. YLZ-CMS is engineered for secure multi-client operations, clean content workflows, and a scalable architecture that supports long-term product growth.<br /><br />
@@ -107,14 +117,14 @@ We design and ship secure, modular, and production-ready digital systems that co
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="12%" align="center" valign="top">
+    <td width="96" align="center" valign="top">
       <strong>03</strong>
       <br />
       <sub>MOBILE</sub>
     </td>
-    <td width="88%" valign="top">
+    <td valign="top">
       <strong>YLZ-DevKit</strong><br />
       <sub>Modern developer utility experience for mobile workflows</sub><br /><br />
       A modern mobile application that delivers essential software utilities for developers. YLZ-DevKit is centered on practical tooling, streamlined interaction, and a mobile-first experience that supports day-to-day engineering workflows.<br /><br />
@@ -173,14 +183,14 @@ Some engagements are presented in a generalized format to respect confidentialit
   <sub>SELECTED WORK THAT REFLECTS OUR DELIVERY QUALITY, SECTOR RANGE, AND PRODUCT THINKING</sub>
 </p>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="12%" align="center" valign="top">
+    <td width="96" align="center" valign="top">
       <strong>01</strong>
       <br />
       <sub>CULTURE</sub>
     </td>
-    <td width="88%" valign="top">
+    <td valign="top">
       <strong>Beşiktaş JK - Payidar1903 Website</strong><br />
       <sub>High-visibility fan-facing web presence and digital identity work</sub><br /><br />
       A high-visibility web presence developed for a Beşiktaş JK supporter platform, focused on structured content delivery, digital identity, and a clear fan-facing experience.<br /><br />
@@ -189,14 +199,14 @@ Some engagements are presented in a generalized format to respect confidentialit
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="12%" align="center" valign="top">
+    <td width="96" align="center" valign="top">
       <strong>02</strong>
       <br />
       <sub>HEALTHCARE</sub>
     </td>
-    <td width="88%" valign="top">
+    <td valign="top">
       <strong>Confidential Healthcare Web Platform</strong><br />
       <sub>Service presentation, trust-building UX, and conversion-aware structure</sub><br /><br />
       A modular website direction for service presentation, trust-building communication, and conversion-oriented page structure within a healthcare context.<br /><br />
@@ -205,14 +215,14 @@ Some engagements are presented in a generalized format to respect confidentialit
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="12%" align="center" valign="top">
+    <td width="96" align="center" valign="top">
       <strong>03</strong>
       <br />
       <sub>CORPORATE</sub>
     </td>
-    <td width="88%" valign="top">
+    <td valign="top">
       <strong>Confidential Business Showcase Platform</strong><br />
       <sub>Clean business communication through performance and maintainable structure</sub><br /><br />
       A clean corporate web presence designed around clarity, performance, and maintainable content organization for business-facing communication.<br /><br />
@@ -221,14 +231,14 @@ Some engagements are presented in a generalized format to respect confidentialit
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="12%" align="center" valign="top">
+    <td width="96" align="center" valign="top">
       <strong>04</strong>
       <br />
       <sub>MOBILE</sub>
     </td>
-    <td width="88%" valign="top">
+    <td valign="top">
       <strong>Developer Utility Mobile Experience</strong><br />
       <sub>Mobile-first product thinking for developer-focused utility workflows</sub><br /><br />
       A mobile-first utility concept centered on practical workflows, fast interaction patterns, and product thinking tailored to developers.<br /><br />
@@ -261,13 +271,14 @@ A concise view of the technologies behind our web platforms, infrastructure, mob
 </p>
 
 **Infrastructure, Cloud & Systems**  
-<sub>Server operating systems, containerized delivery, reverse proxying, and cloud infrastructure.</sub>
+<sub>Server operating systems, containerized delivery, HTTP server tooling, reverse proxying, and cloud infrastructure.</sub>
 
 <p>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" alt="Caddy" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
 </p>
@@ -296,10 +307,10 @@ A concise view of the technologies behind our web platforms, infrastructure, mob
       <sub>FOUNDER</sub>
     </td>
     <td width="88%" valign="top">
-      <strong>Serhan Yıldız</strong><br />
+      <strong>Serhan Yildiz</strong><br />
       <sub>Founder, Lead Developer, and technical direction behind YLZ Digital</sub><br /><br />
       <code>Full Stack Web Development</code> <code>Cyber Security</code> <code>Product Architecture</code><br /><br />
-      Serhan Yıldız leads the technical direction of YLZ Digital with a strong focus on modern web systems, secure software architecture, and practical developer tooling.<br /><br />
+      Serhan Yildiz leads the technical direction of YLZ Digital with a strong focus on modern web systems, secure software architecture, and practical developer tooling.<br /><br />
       <a href="https://github.com/srhnyldz">GitHub</a> •
       <a href="https://serhanyildiz.dev">Web</a> •
       <a href="https://www.instagram.com/serhanyildiz.dev">Instagram</a>

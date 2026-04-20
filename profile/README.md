@@ -239,7 +239,7 @@ Some engagements are presented in a generalized format to respect confidentialit
 
 ## Tech Stack
 
-A concise view of the technologies behind our web platforms, mobile utilities, and AI-driven security workflows.
+A concise view of the technologies behind our web platforms, infrastructure, mobile utilities, and AI-driven security workflows.
 
 **Web Platform**  
 <sub>Backend frameworks, frontend delivery, and modular product architecture.</sub>
@@ -260,6 +260,18 @@ A concise view of the technologies behind our web platforms, mobile utilities, a
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=54C5F8" alt="Flutter" />
 </p>
 
+**Infrastructure, Cloud & Systems**  
+<sub>Server operating systems, containerized delivery, reverse proxying, and cloud infrastructure.</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+</p>
+
 **AI & Cyber Security**  
 <sub>LLM workflows, detection logic, monitoring posture, and operational defense.</sub>
 
@@ -268,7 +280,6 @@ A concise view of the technologies behind our web platforms, mobile utilities, a
   <img src="https://img.shields.io/badge/OpenAI-0F172A?style=flat-square&logo=openai&logoColor=67E8F9" alt="OpenAI" />
   <img src="https://img.shields.io/badge/YARA-1F2937?style=flat-square&logoColor=67E8F9" alt="YARA" />
   <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
 </p>
 
 ## Meet the Founder

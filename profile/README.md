@@ -85,6 +85,80 @@ We design and ship secure, modular, and production-ready digital systems that co
   </tr>
 </table>
 
+## Solution Partners
+
+We work with a focused delivery ecosystem that supports secure implementation, scalable deployment, and modern digital execution across different project types.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Infrastructure & Deployment</strong><br /><br />
+      Production hosting, release workflows, environment readiness, and operational stability for web platforms that need dependable delivery.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Design & Product Delivery</strong><br /><br />
+      Interface refinement, content structure, and product alignment that help digital systems feel clear, modern, and business-ready.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Security & Detection Workflows</strong><br /><br />
+      Monitoring-oriented implementation, rule-based detection thinking, and proactive security analysis for resilient system operations.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Web & Mobile Enablement</strong><br /><br />
+      Modular engineering support for content platforms, business websites, and mobile utilities built for long-term maintainability.
+    </td>
+  </tr>
+</table>
+
+## Selected References
+
+Some engagements are presented in a generalized format to respect confidentiality while still reflecting the type of work we deliver.
+
+<table>
+  <tr>
+    <td width="10%" align="center" valign="top">
+      <strong>01</strong>
+    </td>
+    <td width="90%" valign="top">
+      <strong>Beşiktaş JK - Payidar1903 Website</strong><br />
+      A high-visibility web presence developed for a Beşiktaş JK supporter platform, focused on structured content delivery, digital identity, and a clear fan-facing experience.<br /><br />
+      <code>Reference Project</code> <code>Web Experience</code> <code>Content Architecture</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" valign="top">
+      <strong>02</strong>
+    </td>
+    <td width="90%" valign="top">
+      <strong>Confidential Healthcare Web Platform</strong><br />
+      A modular website direction for service presentation, trust-building communication, and conversion-oriented page structure within a healthcare context.<br /><br />
+      <code>Healthcare</code> <code>Modular Website</code> <code>Service Presentation</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" valign="top">
+      <strong>03</strong>
+    </td>
+    <td width="90%" valign="top">
+      <strong>Confidential Business Showcase Platform</strong><br />
+      A clean corporate web presence designed around clarity, performance, and maintainable content organization for business-facing communication.<br /><br />
+      <code>Corporate Website</code> <code>Performance</code> <code>Maintainable Structure</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" align="center" valign="top">
+      <strong>04</strong>
+    </td>
+    <td width="90%" valign="top">
+      <strong>Developer Utility Mobile Experience</strong><br />
+      A mobile-first utility concept centered on practical workflows, fast interaction patterns, and product thinking tailored to developers.<br /><br />
+      <code>Mobile Utility</code> <code>Developer Experience</code> <code>Product Thinking</code>
+    </td>
+  </tr>
+</table>
+
 ## Tech Stack
 
 <p align="center">

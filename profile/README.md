@@ -33,18 +33,28 @@ We design and ship secure, modular, and production-ready digital systems that co
 
 ## Core Pillars
 
+<p align="center">
+  <sub>THE PRINCIPLES THAT SHAPE OUR ENGINEERING AND DELIVERY MODEL</sub>
+</p>
+
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>🧱 Modular Systems</strong><br /><br />
-      We build structured software that is maintainable, extensible, and ready to evolve with real product needs.
+      <sub><strong>01 / ENGINEERING</strong></sub><br /><br />
+      <strong>🧱 Modular Systems</strong><br />
+      <sub>Clean architecture for long-term product growth</sub><br /><br />
+      We build structured software foundations that stay maintainable, extensible, and ready to evolve with real product needs.
     </td>
     <td width="33%" valign="top">
-      <strong>🛡️ Security Architecture</strong><br /><br />
+      <sub><strong>02 / SECURITY</strong></sub><br /><br />
+      <strong>🛡️ Security Architecture</strong><br />
+      <sub>Protection designed into the system itself</sub><br /><br />
       Security is treated as a foundational layer, from system design and backend logic to deployment and operational visibility.
     </td>
     <td width="33%" valign="top">
-      <strong>🤖 AI-Driven Defense</strong><br /><br />
+      <sub><strong>03 / INTELLIGENCE</strong></sub><br /><br />
+      <strong>🤖 AI-Driven Defense</strong><br />
+      <sub>Proactive monitoring, analysis, and response support</sub><br /><br />
       We explore proactive AI workflows that improve monitoring, analysis, detection, and defensive decision support.
     </td>
   </tr>
@@ -52,33 +62,52 @@ We design and ship secure, modular, and production-ready digital systems that co
 
 ## Priority Initiatives
 
+<p align="center">
+  <sub>FLAGSHIP PRODUCT DIRECTION AND DELIVERY PRIORITIES</sub>
+</p>
+
 <table>
   <tr>
-    <td width="10%" align="center" valign="top">
+    <td width="12%" align="center" valign="top">
       <strong>01</strong>
+      <br />
+      <sub>FLAGSHIP</sub>
     </td>
-    <td width="90%" valign="top">
+    <td width="88%" valign="top">
       <strong>YLZ-AI</strong><br />
+      <sub>AI-driven proactive cybersecurity architecture</sub><br /><br />
       Our flagship AI-driven proactive cybersecurity architecture for server monitoring, vulnerability analysis, and defense workflows. YLZ-AI is designed to strengthen infrastructure awareness and accelerate response through Python-based analysis pipelines and YARA-powered detection capabilities.<br /><br />
       <code>Python</code> <code>YARA</code> <code>Server Monitoring</code> <code>Vulnerability Analysis</code> <code>Defense Automation</code>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td width="10%" align="center" valign="top">
+    <td width="12%" align="center" valign="top">
       <strong>02</strong>
+      <br />
+      <sub>PLATFORM</sub>
     </td>
-    <td width="90%" valign="top">
+    <td width="88%" valign="top">
       <strong>YLZ-CMS</strong><br />
+      <sub>Modular content management and multi-client platform foundation</sub><br /><br />
       A comprehensive modular content management system built with CodeIgniter 4, MariaDB 11.7, and FrankenPHP. YLZ-CMS is engineered for secure multi-client operations, clean content workflows, and a scalable architecture that supports long-term product growth.<br /><br />
       <code>CodeIgniter 4</code> <code>MariaDB 11.7</code> <code>FrankenPHP</code> <code>Modular CMS</code> <code>Multi-Client Architecture</code>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td width="10%" align="center" valign="top">
+    <td width="12%" align="center" valign="top">
       <strong>03</strong>
+      <br />
+      <sub>MOBILE</sub>
     </td>
-    <td width="90%" valign="top">
+    <td width="88%" valign="top">
       <strong>YLZ-DevKit</strong><br />
+      <sub>Modern developer utility experience for mobile workflows</sub><br /><br />
       A modern mobile application that delivers essential software utilities for developers. YLZ-DevKit is centered on practical tooling, streamlined interaction, and a mobile-first experience that supports day-to-day engineering workflows.<br /><br />
       <code>Flutter</code> <code>Mobile Utilities</code> <code>Developer Experience</code> <code>Practical Tooling</code>
     </td>

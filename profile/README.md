@@ -32,6 +32,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="./README.tr.md">
+    <img src="https://img.shields.io/badge/Read%20in%20Turkish-0F172A?style=flat-square&logo=readme&logoColor=67E8F9" alt="Read in Turkish" />
+  </a>
+</p>
+
 ---
 
 ## Overview
@@ -46,7 +52,7 @@ We design and ship secure, modular, and production-ready digital systems that co
   <sub>THE PRINCIPLES THAT SHAPE OUR ENGINEERING AND DELIVERY MODEL</sub>
 </p>
 
-<table>
+<table width="100%">
   <tr>
     <td width="100%" valign="top">
       <sub><strong>01 / ENGINEERING</strong></sub><br /><br />
@@ -57,7 +63,7 @@ We design and ship secure, modular, and production-ready digital systems that co
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
     <td width="100%" valign="top">
       <sub><strong>02 / SECURITY</strong></sub><br /><br />
@@ -68,7 +74,7 @@ We design and ship secure, modular, and production-ready digital systems that co
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
     <td width="100%" valign="top">
       <sub><strong>03 / INTELLIGENCE</strong></sub><br /><br />

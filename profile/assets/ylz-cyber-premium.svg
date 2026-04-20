@@ -15,7 +15,7 @@
       <stop offset="0" stop-color="#0B1730" stop-opacity="0.97"/>
       <stop offset="1" stop-color="#0A1324" stop-opacity="0.86"/>
     </linearGradient>
-    <linearGradient id="cyberPanel" x1="700" y1="332" x2="1220" y2="596" gradientUnits="userSpaceOnUse">
+    <linearGradient id="cyberPanel" x1="700" y1="344" x2="1220" y2="620" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#071922" stop-opacity="0.97"/>
       <stop offset="1" stop-color="#091222" stop-opacity="0.86"/>
     </linearGradient>
@@ -23,7 +23,7 @@
       <stop offset="0" stop-color="#0A1A32"/>
       <stop offset="1" stop-color="#0A1528"/>
     </linearGradient>
-    <linearGradient id="cyberCard" x1="1092" y1="356" x2="1208" y2="550" gradientUnits="userSpaceOnUse">
+    <linearGradient id="cyberCard" x1="1092" y1="368" x2="1208" y2="566" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#081A20"/>
       <stop offset="1" stop-color="#091621"/>
     </linearGradient>
@@ -31,7 +31,7 @@
       <stop offset="0" stop-color="#DBEAFE" stop-opacity="0.1"/>
       <stop offset="1" stop-color="#DBEAFE" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="cyberSheen" x1="716" y1="344" x2="1210" y2="444" gradientUnits="userSpaceOnUse">
+    <linearGradient id="cyberSheen" x1="716" y1="356" x2="1210" y2="456" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#CCFBF1" stop-opacity="0.1"/>
       <stop offset="1" stop-color="#CCFBF1" stop-opacity="0"/>
     </linearGradient>
@@ -129,12 +129,12 @@
 
   <g filter="url(#panelShadow)">
     <rect x="700" y="92" width="520" height="246" rx="28" fill="url(#webPanel)" stroke="#3B82F6"/>
-    <rect x="700" y="332" width="520" height="252" rx="28" fill="url(#cyberPanel)" stroke="#14B8A6"/>
+    <rect x="700" y="344" width="520" height="264" rx="28" fill="url(#cyberPanel)" stroke="#14B8A6"/>
   </g>
   <rect x="716" y="104" width="488" height="60" rx="24" fill="url(#webSheen)"/>
-  <rect x="716" y="344" width="488" height="64" rx="24" fill="url(#cyberSheen)"/>
+  <rect x="716" y="356" width="488" height="64" rx="24" fill="url(#cyberSheen)"/>
   <path d="M736 172H1074" stroke="#60A5FA" stroke-opacity="0.24"/>
-  <path d="M736 410H1074" stroke="#2DD4BF" stroke-opacity="0.24"/>
+  <path d="M736 422H1074" stroke="#2DD4BF" stroke-opacity="0.24"/>
 
   <rect x="728" y="116" width="252" height="38" rx="19" fill="#0C1A33" stroke="#2563EB"/>
   <text x="760" y="140" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.8">
@@ -190,66 +190,66 @@
     WEB
   </text>
 
-  <rect x="728" y="354" width="238" height="38" rx="19" fill="#081A20" stroke="#0F766E"/>
-  <text x="760" y="378" fill="#99F6E4" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.8">
+  <rect x="728" y="366" width="238" height="38" rx="19" fill="#081A20" stroke="#0F766E"/>
+  <text x="760" y="390" fill="#99F6E4" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.8">
     CYBER SECURITY
   </text>
 
-  <text x="736" y="430" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="33" font-weight="700">
+  <text x="736" y="442" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="33" font-weight="700">
     Proactive cyber
   </text>
-  <text x="736" y="466" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="33" font-weight="700">
+  <text x="736" y="478" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="33" font-weight="700">
     security architecture
   </text>
-  <text x="736" y="500" fill="#D7F9F5" font-family="Segoe UI, Arial, sans-serif" font-size="16">
+  <text x="736" y="512" fill="#D7F9F5" font-family="Segoe UI, Arial, sans-serif" font-size="16">
     AI-driven monitoring, vulnerability analysis,
   </text>
-  <text x="736" y="524" fill="#D7F9F5" font-family="Segoe UI, Arial, sans-serif" font-size="16">
+  <text x="736" y="536" fill="#D7F9F5" font-family="Segoe UI, Arial, sans-serif" font-size="16">
     and defense-oriented workflows for stronger
   </text>
-  <text x="736" y="548" fill="#D7F9F5" font-family="Segoe UI, Arial, sans-serif" font-size="16">
+  <text x="736" y="560" fill="#D7F9F5" font-family="Segoe UI, Arial, sans-serif" font-size="16">
     visibility, response readiness, and resilience.
   </text>
-  <rect x="736" y="556" width="70" height="22" rx="11" fill="#081A20" stroke="#0F766E"/>
-  <text x="754" y="570" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9">
+  <rect x="736" y="576" width="70" height="22" rx="11" fill="#081A20" stroke="#0F766E"/>
+  <text x="754" y="590" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9">
     PYTHON
   </text>
-  <rect x="814" y="556" width="58" height="22" rx="11" fill="#081A20" stroke="#0F766E"/>
-  <text x="833" y="570" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9">
+  <rect x="814" y="576" width="58" height="22" rx="11" fill="#081A20" stroke="#0F766E"/>
+  <text x="833" y="590" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9">
     YARA
   </text>
-  <rect x="880" y="556" width="98" height="22" rx="11" fill="#081A20" stroke="#0F766E"/>
-  <text x="897" y="570" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9">
+  <rect x="880" y="576" width="98" height="22" rx="11" fill="#081A20" stroke="#0F766E"/>
+  <text x="897" y="590" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9">
     MONITORING
   </text>
-  <rect x="986" y="556" width="78" height="22" rx="11" fill="#081A20" stroke="#0F766E"/>
-  <text x="1005" y="570" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9">
+  <rect x="986" y="576" width="78" height="22" rx="11" fill="#081A20" stroke="#0F766E"/>
+  <text x="1005" y="590" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9">
     DEFENSE
   </text>
 
   <g filter="url(#cardShadow)">
-    <rect x="1084" y="354" width="122" height="196" rx="24" fill="url(#cyberCard)" stroke="#14B8A6"/>
+    <rect x="1084" y="366" width="122" height="196" rx="24" fill="url(#cyberCard)" stroke="#14B8A6"/>
   </g>
-  <rect x="1103" y="370" width="84" height="22" rx="11" fill="#0D2B32" stroke="#2DD4BF"/>
-  <text x="1121" y="384" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9">
+  <rect x="1103" y="382" width="84" height="22" rx="11" fill="#0D2B32" stroke="#2DD4BF"/>
+  <text x="1121" y="396" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9">
     DEFENSE
   </text>
-  <path d="M1145 410L1168 422V452C1168 471 1158 487 1145 492C1132 487 1122 471 1122 452V422L1145 410Z" fill="none" stroke="#99F6E4" stroke-width="3"/>
-  <path d="M1138 452L1145 459L1158 445" stroke="#99F6E4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="1116" cy="422" r="5.5" fill="#14B8A6"/>
-  <circle cx="1174" cy="422" r="5.5" fill="#14B8A6"/>
-  <circle cx="1116" cy="512" r="5.5" fill="#14B8A6"/>
-  <circle cx="1174" cy="512" r="5.5" fill="#14B8A6"/>
-  <path d="M1121 426L1132 434" stroke="#2DD4BF" stroke-width="2"/>
-  <path d="M1159 434L1169 426" stroke="#2DD4BF" stroke-width="2"/>
-  <path d="M1121 508L1132 500" stroke="#2DD4BF" stroke-width="2"/>
-  <path d="M1159 500L1169 508" stroke="#2DD4BF" stroke-width="2"/>
-  <rect x="1100" y="520" width="40" height="22" rx="11" fill="#081A20" stroke="#0F766E"/>
-  <text x="1110" y="534" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9">
+  <path d="M1145 422L1168 434V464C1168 483 1158 499 1145 504C1132 499 1122 483 1122 464V434L1145 422Z" fill="none" stroke="#99F6E4" stroke-width="3"/>
+  <path d="M1138 464L1145 471L1158 457" stroke="#99F6E4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1116" cy="434" r="5.5" fill="#14B8A6"/>
+  <circle cx="1174" cy="434" r="5.5" fill="#14B8A6"/>
+  <circle cx="1116" cy="524" r="5.5" fill="#14B8A6"/>
+  <circle cx="1174" cy="524" r="5.5" fill="#14B8A6"/>
+  <path d="M1121 438L1132 446" stroke="#2DD4BF" stroke-width="2"/>
+  <path d="M1159 446L1169 438" stroke="#2DD4BF" stroke-width="2"/>
+  <path d="M1121 520L1132 512" stroke="#2DD4BF" stroke-width="2"/>
+  <path d="M1159 512L1169 520" stroke="#2DD4BF" stroke-width="2"/>
+  <rect x="1100" y="532" width="40" height="22" rx="11" fill="#081A20" stroke="#0F766E"/>
+  <text x="1110" y="546" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9">
     AI
   </text>
-  <rect x="1146" y="520" width="46" height="22" rx="11" fill="#081A20" stroke="#0F766E"/>
-  <text x="1156" y="534" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9">
+  <rect x="1146" y="532" width="46" height="22" rx="11" fill="#081A20" stroke="#0F766E"/>
+  <text x="1156" y="546" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.9">
     YARA
   </text>
 </svg>

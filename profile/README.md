@@ -3,12 +3,21 @@
 </p>
 
 <p align="center">
-  <strong>YLZ Digital</strong><br />
-  Full Stack Web Development • Cyber Security • Modular Product Engineering
+  <sub>ORGANIZATION PROFILE</sub>
+</p>
+
+<h1 align="center">YLZ Digital</h1>
+
+<p align="center">
+  <strong>Full Stack Web Development • Cyber Security • Modular Product Engineering</strong>
 </p>
 
 <p align="center">
-  Building modular web systems, mobile utilities, and proactive AI-based security architectures.
+  Building modular web systems, mobile utilities, and proactive AI-based security architectures for modern products, operational resilience, and long-term scalability.
+</p>
+
+<p align="center">
+  <sub>SECURITY-FIRST ENGINEERING • MODULAR SYSTEM DESIGN • AI-DRIVEN DEFENSE THINKING</sub>
 </p>
 
 <p align="center">
@@ -231,14 +240,39 @@ Some engagements are presented in a generalized format to respect confidentialit
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/CodeIgniter%204-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Astro.js-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro.js" />
+  <sub>GROUPED BY DELIVERY LAYER, PRODUCT SURFACE, AND SECURITY CAPABILITY</sub>
 </p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><strong>WEB PLATFORM</strong></sub><br /><br />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/CodeIgniter%204-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Astro.js-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro.js" />
+    </td>
+    <td width="50%" valign="top">
+      <sub><strong>DATA, RUNTIME & MOBILE</strong></sub><br /><br />
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+      <img src="https://img.shields.io/badge/FrankenPHP-0F172A?style=for-the-badge&logoColor=67E8F9" alt="FrankenPHP" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <sub><strong>AI & CYBER SECURITY</strong></sub><br /><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+      <img src="https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=67E8F9" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/YARA-1F2937?style=for-the-badge&logoColor=67E8F9" alt="YARA" />
+      <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux" />
+    </td>
+  </tr>
+</table>
 
 ## Meet the Founder
 

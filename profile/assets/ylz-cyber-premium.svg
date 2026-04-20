@@ -1,126 +1,202 @@
 <svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">YLZ Digital Cyber Premium Banner</title>
-  <desc id="desc">A dark premium hero banner for YLZ Digital featuring cyber themed accents and technology focused messaging.</desc>
+  <desc id="desc">A premium dark banner for YLZ Digital with clearly separated Web Development and Cyber Security panels and non-overlapping typography.</desc>
   <defs>
-    <linearGradient id="bg" x1="90" y1="40" x2="1190" y2="600" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="88" y1="36" x2="1198" y2="612" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#020617"/>
-      <stop offset="0.55" stop-color="#081122"/>
+      <stop offset="0.54" stop-color="#071323"/>
       <stop offset="1" stop-color="#030712"/>
     </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#38BDF8" stop-opacity="0.15"/>
+    <linearGradient id="grid" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.08"/>
     </linearGradient>
-    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0B162B" stop-opacity="0.92"/>
-      <stop offset="1" stop-color="#091223" stop-opacity="0.72"/>
+    <linearGradient id="webPanel" x1="736" y1="106" x2="1206" y2="304" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1730" stop-opacity="0.97"/>
+      <stop offset="1" stop-color="#0A1324" stop-opacity="0.86"/>
     </linearGradient>
-    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1038 154) rotate(90) scale(238 238)">
-      <stop stop-color="#22D3EE" stop-opacity="0.35"/>
+    <linearGradient id="cyberPanel" x1="736" y1="328" x2="1206" y2="540" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#071922" stop-opacity="0.97"/>
+      <stop offset="1" stop-color="#091222" stop-opacity="0.86"/>
+    </linearGradient>
+    <linearGradient id="webCard" x1="1080" y1="132" x2="1180" y2="284" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A1A32"/>
+      <stop offset="1" stop-color="#0A1528"/>
+    </linearGradient>
+    <linearGradient id="cyberCard" x1="1080" y1="354" x2="1180" y2="516" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#081A20"/>
+      <stop offset="1" stop-color="#091621"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(240 138) rotate(90) scale(260 260)">
+      <stop stop-color="#2563EB" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1038 210) rotate(90) scale(280 280)">
+      <stop stop-color="#22D3EE" stop-opacity="0.22"/>
       <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(948 480) rotate(90) scale(280 280)">
-      <stop stop-color="#0EA5E9" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
-    </radialGradient>
     <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="28"/>
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+    <filter id="panelShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.38"/>
     </filter>
   </defs>
 
   <rect width="1280" height="640" rx="28" fill="url(#bg)"/>
 
-  <g opacity="0.18">
-    <path d="M0 108H1280" stroke="url(#line)"/>
-    <path d="M0 204H1280" stroke="url(#line)"/>
-    <path d="M0 300H1280" stroke="url(#line)"/>
-    <path d="M0 396H1280" stroke="url(#line)"/>
-    <path d="M0 492H1280" stroke="url(#line)"/>
-    <path d="M0 588H1280" stroke="url(#line)"/>
-    <path d="M140 0V640" stroke="url(#line)"/>
-    <path d="M268 0V640" stroke="url(#line)"/>
-    <path d="M396 0V640" stroke="url(#line)"/>
-    <path d="M524 0V640" stroke="url(#line)"/>
-    <path d="M652 0V640" stroke="url(#line)"/>
-    <path d="M780 0V640" stroke="url(#line)"/>
-    <path d="M908 0V640" stroke="url(#line)"/>
-    <path d="M1036 0V640" stroke="url(#line)"/>
-    <path d="M1164 0V640" stroke="url(#line)"/>
+  <g opacity="0.16">
+    <path d="M0 100H1280" stroke="url(#grid)"/>
+    <path d="M0 196H1280" stroke="url(#grid)"/>
+    <path d="M0 292H1280" stroke="url(#grid)"/>
+    <path d="M0 388H1280" stroke="url(#grid)"/>
+    <path d="M0 484H1280" stroke="url(#grid)"/>
+    <path d="M0 580H1280" stroke="url(#grid)"/>
+    <path d="M132 0V640" stroke="url(#grid)"/>
+    <path d="M260 0V640" stroke="url(#grid)"/>
+    <path d="M388 0V640" stroke="url(#grid)"/>
+    <path d="M516 0V640" stroke="url(#grid)"/>
+    <path d="M644 0V640" stroke="url(#grid)"/>
+    <path d="M772 0V640" stroke="url(#grid)"/>
+    <path d="M900 0V640" stroke="url(#grid)"/>
+    <path d="M1028 0V640" stroke="url(#grid)"/>
+    <path d="M1156 0V640" stroke="url(#grid)"/>
   </g>
 
-  <circle cx="1038" cy="154" r="238" fill="url(#glowA)" filter="url(#softGlow)"/>
-  <circle cx="948" cy="480" r="280" fill="url(#glowB)" filter="url(#softGlow)"/>
+  <circle cx="240" cy="138" r="260" fill="url(#glowLeft)" filter="url(#softGlow)"/>
+  <circle cx="1038" cy="210" r="280" fill="url(#glowRight)" filter="url(#softGlow)"/>
 
-  <rect x="66" y="74" width="218" height="36" rx="18" fill="#0B162B" stroke="#164E63"/>
-  <text x="92" y="97" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2.2">
+  <rect x="66" y="68" width="264" height="40" rx="20" fill="#0A1324" stroke="#164E63"/>
+  <text x="92" y="93" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.8">
     ORGANIZATION PROFILE
   </text>
 
-  <text x="72" y="198" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="700">
+  <text x="70" y="186" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="700">
     YLZ Digital
   </text>
-  <text x="72" y="254" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="600">
-    Full Stack Web Development and Cyber Security
+  <text x="72" y="236" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="600">
+    Full Stack Engineering
+  </text>
+  <text x="72" y="272" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="600">
+    with a Security-First Mindset
   </text>
 
-  <text x="72" y="332" fill="#D7E8F8" font-family="Segoe UI, Arial, sans-serif" font-size="24">
+  <text x="72" y="324" fill="#D6E6F5" font-family="Segoe UI, Arial, sans-serif" font-size="22">
     Building modular web systems, mobile utilities,
   </text>
-  <text x="72" y="368" fill="#D7E8F8" font-family="Segoe UI, Arial, sans-serif" font-size="24">
+  <text x="72" y="356" fill="#D6E6F5" font-family="Segoe UI, Arial, sans-serif" font-size="22">
     and proactive AI-based security architectures.
   </text>
 
-  <path d="M72 414H366" stroke="#22D3EE" stroke-width="3" stroke-linecap="round"/>
+  <path d="M72 394H430" stroke="#38BDF8" stroke-width="3" stroke-linecap="round"/>
 
-  <rect x="72" y="460" width="258" height="112" rx="20" fill="url(#panel)" stroke="#164E63"/>
-  <text x="98" y="498" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">
-    MODULAR SYSTEMS
-  </text>
-  <text x="98" y="533" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">
-    Scalable product
-  </text>
-  <text x="98" y="563" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">
-    architecture
+  <text x="72" y="438" fill="#7DD3FC" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">
+    DELIVERY FOCUS
   </text>
 
-  <rect x="358" y="460" width="258" height="112" rx="20" fill="url(#panel)" stroke="#164E63"/>
-  <text x="384" y="498" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">
-    AI-DRIVEN DEFENSE
-  </text>
-  <text x="384" y="533" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">
-    Detection, analysis,
-  </text>
-  <text x="384" y="563" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">
-    and response
+  <rect x="72" y="456" width="148" height="42" rx="21" fill="#0B1730" stroke="#1D4ED8"/>
+  <text x="103" y="483" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">
+    MODULAR
   </text>
 
-  <rect x="644" y="460" width="258" height="112" rx="20" fill="url(#panel)" stroke="#164E63"/>
-  <text x="670" y="498" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">
-    MOBILE UTILITIES
-  </text>
-  <text x="670" y="533" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">
-    Practical tools
-  </text>
-  <text x="670" y="563" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">
-    for developers
+  <rect x="236" y="456" width="148" height="42" rx="21" fill="#0A1727" stroke="#155E75"/>
+  <text x="266" y="483" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">
+    SCALABLE
   </text>
 
-  <g opacity="0.85">
-    <rect x="932" y="126" width="256" height="298" rx="26" fill="#07111F" stroke="#164E63"/>
-    <rect x="962" y="162" width="196" height="10" rx="5" fill="#12324C"/>
-    <rect x="962" y="192" width="138" height="10" rx="5" fill="#0E7490"/>
-    <rect x="962" y="252" width="196" height="1" fill="#164E63"/>
-    <rect x="962" y="286" width="72" height="72" rx="14" fill="#0B162B" stroke="#155E75"/>
-    <path d="M982 322L1002 302L1014 314L1042 286" stroke="#22D3EE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-    <rect x="1054" y="286" width="104" height="12" rx="6" fill="#12324C"/>
-    <rect x="1054" y="310" width="84" height="12" rx="6" fill="#0E7490"/>
-    <rect x="1054" y="334" width="66" height="12" rx="6" fill="#12324C"/>
-    <rect x="962" y="382" width="196" height="1" fill="#164E63"/>
-    <text x="962" y="230" fill="#E2F3FF" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">
-      Security-oriented
-    </text>
-    <text x="962" y="402" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.7">
-      PYTHON · YARA · CI4 · FRANKENPHP
-    </text>
+  <rect x="400" y="456" width="148" height="42" rx="21" fill="#081722" stroke="#0F766E"/>
+  <text x="444" y="483" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">
+    SECURE
+  </text>
+
+  <text x="72" y="542" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">
+    Web engineering and cyber defense,
+  </text>
+  <text x="72" y="570" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">
+    presented as two distinct pillars of one brand.
+  </text>
+
+  <g filter="url(#panelShadow)">
+    <rect x="736" y="106" width="470" height="198" rx="28" fill="url(#webPanel)" stroke="#3B82F6"/>
+    <rect x="736" y="328" width="470" height="212" rx="28" fill="url(#cyberPanel)" stroke="#14B8A6"/>
   </g>
+
+  <rect x="762" y="128" width="224" height="34" rx="17" fill="#0C1A33" stroke="#2563EB"/>
+  <text x="792" y="150" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">
+    WEB DEVELOPMENT
+  </text>
+
+  <text x="766" y="188" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">
+    Web systems and
+  </text>
+  <text x="766" y="220" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">
+    digital platforms
+  </text>
+  <text x="766" y="248" fill="#D9EAFE" font-family="Segoe UI, Arial, sans-serif" font-size="15">
+    Modern websites, modular CMS products,
+  </text>
+  <text x="766" y="270" fill="#D9EAFE" font-family="Segoe UI, Arial, sans-serif" font-size="15">
+    and full stack delivery for scalable growth.
+  </text>
+  <text x="766" y="292" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="0.9">
+    PHP  •  CI4  •  NEXT.JS  •  ASTRO.JS
+  </text>
+
+  <rect x="1080" y="132" width="92" height="144" rx="22" fill="url(#webCard)" stroke="#2563EB"/>
+  <rect x="1098" y="152" width="56" height="8" rx="4" fill="#60A5FA"/>
+  <rect x="1098" y="174" width="56" height="42" rx="8" fill="none" stroke="#93C5FD" stroke-width="2.5"/>
+  <path d="M1110 196L1120 186L1110 176" stroke="#BFDBFE" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1142 176L1132 186L1142 196" stroke="#BFDBFE" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="1092" y="236" width="30" height="20" rx="10" fill="#0B1730" stroke="#1D4ED8"/>
+  <text x="1101" y="249" fill="#DBEAFE" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="0.9">
+    CMS
+  </text>
+  <rect x="1128" y="236" width="28" height="20" rx="10" fill="#0B1730" stroke="#1D4ED8"/>
+  <text x="1137" y="249" fill="#DBEAFE" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="0.9">
+    WEB
+  </text>
+
+  <rect x="762" y="350" width="208" height="34" rx="17" fill="#081A20" stroke="#0F766E"/>
+  <text x="792" y="372" fill="#99F6E4" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">
+    CYBER SECURITY
+  </text>
+
+  <text x="766" y="410" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">
+    Proactive cyber
+  </text>
+  <text x="766" y="442" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">
+    security architecture
+  </text>
+  <text x="766" y="470" fill="#D7F9F5" font-family="Segoe UI, Arial, sans-serif" font-size="15">
+    AI-driven monitoring and vulnerability analysis
+  </text>
+  <text x="766" y="492" fill="#D7F9F5" font-family="Segoe UI, Arial, sans-serif" font-size="15">
+    with defense-oriented workflows for visibility,
+  </text>
+  <text x="766" y="514" fill="#D7F9F5" font-family="Segoe UI, Arial, sans-serif" font-size="15">
+    response readiness, and operational resilience.
+  </text>
+  <text x="766" y="534" fill="#99F6E4" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="0.9">
+    PYTHON  •  YARA  •  MONITORING  •  DEFENSE
+  </text>
+
+  <rect x="1080" y="354" width="96" height="154" rx="22" fill="url(#cyberCard)" stroke="#14B8A6"/>
+  <path d="M1128 378L1152 390V416C1152 432 1142 446 1128 451C1114 446 1104 432 1104 416V390L1128 378Z" fill="none" stroke="#99F6E4" stroke-width="3"/>
+  <path d="M1120 416L1127 423L1140 409" stroke="#99F6E4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1100" cy="388" r="5" fill="#14B8A6"/>
+  <circle cx="1156" cy="388" r="5" fill="#14B8A6"/>
+  <circle cx="1100" cy="462" r="5" fill="#14B8A6"/>
+  <circle cx="1156" cy="462" r="5" fill="#14B8A6"/>
+  <path d="M1106 392L1114 399" stroke="#2DD4BF" stroke-width="2"/>
+  <path d="M1142 399L1150 392" stroke="#2DD4BF" stroke-width="2"/>
+  <path d="M1106 458L1114 451" stroke="#2DD4BF" stroke-width="2"/>
+  <path d="M1142 451L1150 458" stroke="#2DD4BF" stroke-width="2"/>
+  <rect x="1090" y="472" width="32" height="20" rx="10" fill="#081A20" stroke="#0F766E"/>
+  <text x="1100" y="485" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="0.9">
+    AI
+  </text>
+  <rect x="1128" y="472" width="38" height="20" rx="10" fill="#081A20" stroke="#0F766E"/>
+  <text x="1137" y="485" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="0.9">
+    YARA
+  </text>
 </svg>
